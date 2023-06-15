@@ -17,7 +17,7 @@ def snake_water_gun():
 
     my_choice = chants[x-1]
 
-    print(f"your_choice : {my_choice}\ncomputer's choice : {choice}")
+    print(f"your choice : {my_choice}\ncomputer's choice : {choice}")
 
     if (my_choice == "snake" and choice == "water") or (my_choice == "water" and choice == "gun") or (my_choice == "gun" and choice == "snake"):
         return "you won."

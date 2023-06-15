@@ -1,0 +1,13 @@
+Hangman is a classic word-guessing game that has entertained and challenged players of all ages for decades. It is a simple yet engaging game that can be played with minimal equipment, making it a popular choice for group gatherings, educational settings, or even solitary entertainment.
+
+The game typically involves two or more players, with one player acting as the "hangman" and the others as the guessers. The hangman's role is to choose a secret word and create a visual representation of the word using a series of dashes, each representing a letter of the word. The guessers' task is to correctly guess the letters of the word within a limited number of attempts.
+
+To start the game, the hangman selects a word or phrase and determines the number of letters it contains. The word is then represented by a series of underscores or dashes, with each underscore indicating a letter yet to be revealed. The hangman provides the guessers with the category or theme of the word, such as "animals," "countries," or "movies," to give them a clue.
+
+The guessers then take turns guessing individual letters of the word. If a guessed letter is present in the word, the hangman reveals all occurrences of that letter in the appropriate positions. However, if the guessed letter is not part of the word, the hangman starts to draw the image of a hanging stick figure, symbolizing the progress of the guessers' failures.
+
+The drawing of the hangman is typically done in stages, with each incorrect guess resulting in the addition of a body part to the figure. The exact number of incorrect guesses allowed may vary, but commonly consists of a head, body, arms, and legs. If the hangman completes the drawing of the entire figure before the guessers successfully identify the word, the hangman wins the round.
+
+Conversely, if the guessers manage to uncover all the letters of the word before the hangman completes the drawing, they emerge victorious. The game can be played with various difficulty levels, depending on the complexity of the chosen words or phrases and the number of allowed incorrect guesses.
+
+Hangman not only provides entertainment but also helps improve vocabulary, spelling, and word recognition skills. It encourages strategic thinking and deduction as players analyze the revealed letters and make educated guesses to unravel the hidden word. The simplicity and versatility of the game have contributed to its enduring popularity and widespread adoption as a fun and educational pastime.
